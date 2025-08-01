@@ -57,7 +57,7 @@ Gemini API 代理, 使用边缘函数把Gemini API免费中转到国内。还可
 
 
 ## Cloudflare Worker 部署
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tech-shrimp/gemini-balance-lite)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jiam9069/gemini-balance-lite)
 
 0. CF Worker有可能会分配香港的CDN节点导致无法使用(Gemini不允许香港IP连接)
 0. 广东地区不建议使用Cloudflare Worker 部署
@@ -74,7 +74,7 @@ Gemini API 代理, 使用边缘函数把Gemini API免费中转到国内。还可
 
 
 ## Netlify部署
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tech-shrimp/gemini-balance-lite)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jiam9069/gemini-balance-lite)
 <br>点击部署按钮，登录Github账户即可
 <br>免费分配域名，国内可直连。
 <br>但是不稳定
@@ -93,14 +93,7 @@ Gemini API 代理, 使用边缘函数把Gemini API免费中转到国内。还可
 
 ![image](/docs/images/2.png)
 </details>
-
-
-
-## 打赏
-#### 帮忙点点关注点点赞，谢谢啦~
-B站：[https://space.bilibili.com/316183842](https://space.bilibili.com/316183842)<br>
-Youtube: [https://www.youtube.com/@Tech_Shrimp](https://www.youtube.com/@Tech_Shrimp)
-
+ 
 
 ## 本地调试
 
